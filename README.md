@@ -1,1 +1,1 @@
-This will be a simple recipe website
+This is a basic recipe website
